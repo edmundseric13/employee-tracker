@@ -21,6 +21,8 @@
 
   ## Usage
 
+  https://drive.google.com/file/d/1PT2XCowHppTgxaJWOfUjopwSpzHYfNNt/view
+  
   Run node index.js once you are connected to your database. This allows the user to view all areas and also add to them.
 
   ## License
